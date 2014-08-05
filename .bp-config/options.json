@@ -1,0 +1,4 @@
+{
+    "PHP_EXTENSIONS": ["amqp", "apc", "apcu", "bz2", "curl", "dba", "gd", "gettext", "gmp", "igbinary", "imagick", "imap", "ldap", "mailparse", "mcrypt", "memcache", "memcached", "mongo", "msgpack", "openssl", "pdo_pgsql", "pgsql", "phalcon", "pspell", "redis", "sundown", "snmp", "zlib"]
+	
+}
